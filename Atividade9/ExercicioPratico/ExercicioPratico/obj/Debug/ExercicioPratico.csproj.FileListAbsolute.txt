@@ -1,0 +1,16 @@
+C:\Users\lusac\source\repos\ExercicioPratico\ExercicioPratico\bin\Debug\ExercicioPratico.exe.config
+C:\Users\lusac\source\repos\ExercicioPratico\ExercicioPratico\bin\Debug\ExercicioPratico.exe
+C:\Users\lusac\source\repos\ExercicioPratico\ExercicioPratico\bin\Debug\ExercicioPratico.pdb
+C:\Users\lusac\source\repos\ExercicioPratico\ExercicioPratico\obj\Debug\ExercicioPratico.csproj.AssemblyReference.cache
+C:\Users\lusac\source\repos\ExercicioPratico\ExercicioPratico\obj\Debug\ExercicioPratico.Form1.resources
+C:\Users\lusac\source\repos\ExercicioPratico\ExercicioPratico\obj\Debug\ExercicioPratico.Properties.Resources.resources
+C:\Users\lusac\source\repos\ExercicioPratico\ExercicioPratico\obj\Debug\ExercicioPratico.csproj.GenerateResource.cache
+C:\Users\lusac\source\repos\ExercicioPratico\ExercicioPratico\obj\Debug\ExercicioPratico.csproj.CoreCompileInputs.cache
+C:\Users\lusac\source\repos\ExercicioPratico\ExercicioPratico\obj\Debug\ExercicioPratico.exe
+C:\Users\lusac\source\repos\ExercicioPratico\ExercicioPratico\obj\Debug\ExercicioPratico.pdb
+C:\Users\lusac\source\repos\ExercicioPratico\ExercicioPratico\obj\Debug\ExercicioPratico.frmEx1.resources
+C:\Users\lusac\source\repos\ExercicioPratico\ExercicioPratico\obj\Debug\ExercicioPratico.frmEx2.resources
+C:\Users\lusac\source\repos\ExercicioPratico\ExercicioPratico\obj\Debug\ExercicioPratico.frmEx3.resources
+C:\Users\lusac\source\repos\ExercicioPratico\ExercicioPratico\obj\Debug\ExercicioPratico.frmEx4.resources
+C:\Users\lusac\source\repos\ExercicioPratico\ExercicioPratico\obj\Debug\ExercicioPratico.frmEx5.resources
+C:\Users\lusac\source\repos\ExercicioPratico\ExercicioPratico\obj\Debug\ExercicioPratico.frmEx6.resources
